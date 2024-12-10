@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\models\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\createdoctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\models\\createdoctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\models\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +53,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\register.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\register.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\migrations\\20241203091242_patienttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\migrations\\20241203091242_patienttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|c:\\users\\tuniki satwick\\source\\repos\\loginback\\loginback\\migrations\\20241206113351_doctormigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC9766-A61D-4F3E-8373-7C53E8A544B9}|LoginBack\\Register.csproj|solutionrelative:loginback\\migrations\\20241206113351_doctormigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +78,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\JwtService.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Models\\JwtService.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\JwtService.cs",
+              "RelativeToolTip": "LoginBack\\Models\\JwtService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:16:13.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\Login.cs",
+              "RelativeToolTip": "LoginBack\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:03:25.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\UserContext.cs",
+              "RelativeToolTip": "LoginBack\\Models\\UserContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:58:19.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LoginBack\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:35:46.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\User.cs",
+              "RelativeToolTip": "LoginBack\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:27:16.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241206113351_DoctorMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Migrations\\20241206113351_DoctorMigration.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Migrations\\20241206113351_DoctorMigration.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Migrations\\20241206113351_DoctorMigration.cs",
+              "RelativeToolTip": "LoginBack\\Migrations\\20241206113351_DoctorMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:33:52.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\Patient.cs",
+              "RelativeToolTip": "LoginBack\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:41:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\Doctor.cs",
+              "RelativeToolTip": "LoginBack\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:54:19.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Models\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\CreateUserRequest.cs",
+              "RelativeToolTip": "LoginBack\\Models\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:29:34.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateDoctorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\CreateDoctorRequest.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Models\\CreateDoctorRequest.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\CreateDoctorRequest.cs",
+              "RelativeToolTip": "LoginBack\\Models\\CreateDoctorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:25:19.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LoginBack\\Properties\\launchSettings.json",
@@ -66,85 +211,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\JwtService.cs",
-              "RelativeDocumentMoniker": "LoginBack\\Models\\JwtService.cs",
-              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\JwtService.cs",
-              "RelativeToolTip": "LoginBack\\Models\\JwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T06:16:13.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "LoginBack\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\Login.cs",
-              "RelativeToolTip": "LoginBack\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:03:25.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\UserContext.cs",
-              "RelativeDocumentMoniker": "LoginBack\\Models\\UserContext.cs",
-              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\UserContext.cs",
-              "RelativeToolTip": "LoginBack\\Models\\UserContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:58:19.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "LoginBack\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Controllers\\UserController.cs",
-              "RelativeToolTip": "LoginBack\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:35:46.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\User.cs",
-              "RelativeDocumentMoniker": "LoginBack\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Models\\User.cs",
-              "RelativeToolTip": "LoginBack\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:27:16.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Program.cs",
               "RelativeDocumentMoniker": "LoginBack\\Program.cs",
               "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Program.cs",
               "RelativeToolTip": "LoginBack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:12:27.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T12:12:27.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
+              "Title": "20241203091242_PatientTable.cs",
+              "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Migrations\\20241203091242_PatientTable.cs",
+              "RelativeDocumentMoniker": "LoginBack\\Migrations\\20241203091242_PatientTable.cs",
+              "ToolTip": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Migrations\\20241203091242_PatientTable.cs",
+              "RelativeToolTip": "LoginBack\\Migrations\\20241203091242_PatientTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:12:43.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\appsettings.json",
               "RelativeDocumentMoniker": "LoginBack\\appsettings.json",
@@ -152,12 +243,11 @@
               "RelativeToolTip": "LoginBack\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T13:48:31.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:48:31.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Register.csproj",
               "DocumentMoniker": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Register.csproj",
               "RelativeDocumentMoniker": "LoginBack\\Register.csproj",
